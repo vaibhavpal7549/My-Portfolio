@@ -71,4 +71,4 @@ Feel free to connect with me:
 - **Personal Email:** [vaibhavpal.info@gmail.com](mailto:vaibhavpal.info@gmail.com)
 - **Location:** Jaunpur, Uttar Pradesh, 223102, India
 
-# My-Portfolio
+Thank you for visiting my portfolio!
