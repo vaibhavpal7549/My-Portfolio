@@ -2,6 +2,12 @@
 
 Welcome to my personal portfolio website! This site showcases my journey, projects, and skills as a Computer Science Engineering student and digital content creator. Explore my work, learn more about me, and feel free to reach out for collaborations or opportunities.
 
+## Live Demo
+
+Check out the live version of the project:
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Here-blue)](https://vaibhavpal.vercel.app/)
+
 ## Table of Contents
 1. [About Me](#about-me)
 2. [Features](#features)
