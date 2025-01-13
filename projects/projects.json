@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Portfolio Website",
+        "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+        "image": "portfolio1",
+        "category": "basicweb",
+        "links": {
+          "view": "https://vaibhavpal.vercel.app/",
+          "code": "https://github.com/vaibhavpal7549/My-Portfolio"
+        }
+      },
+      {
+        "name": "Calculator",
+        "desc": "A simple and intuitive ReactJS-based calculator for performing basic arithmetic operations.",
+        "image": "calculator",
+        "category": "basicweb",
+        "links": {
+          "view": "https://calculator-vp.vercel.app/",
+          "code": "https://github.com/vaibhavpal7549/Calculator"
+        }
+      },
+      {
+        "name": "CSS Mini Project",
+        "desc": "A creative project showcasing fundamental CSS skills through various mini-design implementations.",
+        "image": "cssmini",
+        "category": "basicweb",
+        "links": {
+          "view": "https://css-mini-project-vp.vercel.app/",
+          "code": "https://github.com/vaibhavpal7549/CSS-MINI-PROJECT"
+        }
+      },
+      {
+        "name": "Weather Website",
+        "desc": "A responsive web application that provides real-time weather updates and forecasts for various locations, utilizing modern web technologies.",
+        "image": "weather",
+        "category": "basicweb",
+        "links": {
+          "view": "https://weather-app-vp.vercel.app/",
+          "code": "https://github.com/vaibhavpal7549/Weather-App"
+        }
+      }
+  ]
