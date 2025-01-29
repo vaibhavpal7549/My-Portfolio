@@ -38,5 +38,15 @@
           "view": "https://weather-app-vp.vercel.app/",
           "code": "https://github.com/vaibhavpal7549/Weather-App"
         }
+      },
+      {
+        "name": "Spotify Clone Project",
+        "desc": "A responsive web application that provides few spotify music features, like playing audio",
+        "image": "spotify",
+        "category": "basicweb",
+        "links": {
+          "view": "https://spotify-clone-vp.vercel.app/",
+          "code": "https://github.com/vaibhavpal7549/Spotify-Clone-Project"
+        }
       }
   ]
