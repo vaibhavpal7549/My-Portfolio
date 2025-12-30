@@ -118,5 +118,15 @@
           "view": "https://vaibhavpal7549.github.io/Todo-App/",
           "code": "https://github.com/vaibhavpal7549/Todo-App"
         }
+      },
+      {
+        "name": "Tic Tac Toe",
+        "desc": "A classic Tic Tac Toe game built with HTML, CSS, and JavaScript",
+        "image": "tic_tac_toe",
+        "category": "basicweb",
+        "links": {
+          "view": "https://vaibhavpal7549.github.io/Tic-Tac-Toe-Game/",
+          "code": "https://github.com/vaibhavpal7549/Tic-Tac-Toe-Game"
+        }
       }
   ]
