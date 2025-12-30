@@ -88,5 +88,15 @@
           "view": "https://nptelpractice.netlify.app/",
           "code": "https://github.com/vaibhavpal7549/NPTEL"
         }
+      },
+      {
+        "name": "Web Dev Quiz",
+        "desc": "A lightweight web development quiz website built using pure HTML",
+        "image": "web_dev",
+        "category": "basicweb",
+        "links": {
+          "view": "https://vaibhavpal7549.github.io/quiz/",
+          "code": "https://github.com/vaibhavpal7549/quiz"
+        }
       }
   ]
