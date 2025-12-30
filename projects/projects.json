@@ -78,5 +78,15 @@
           "view": "https://vaibhavpal7549.github.io/Simon-Says-Game/",
           "code": "https://github.com/vaibhavpal7549/Simon-Says-Game"
         }
+      },
+      {
+        "name": "NPTEL Practice Quiz",
+        "desc": "A simple and interactive web-based MCQ quiz for NPTEL courses",
+        "image": "nptel",
+        "category": "basicweb",
+        "links": {
+          "view": "https://nptelpractice.netlify.app/",
+          "code": "https://github.com/vaibhavpal7549/NPTEL"
+        }
       }
   ]
