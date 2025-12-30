@@ -52,7 +52,7 @@
       {
         "name": "QR Code Generator",
         "desc": "A lightweight and easy-to-use QR Code Generator built using HTML, CSS, and JavaScript",
-        "image": "qr",
+        "image": "qr_code",
         "category": "basicweb",
         "links": {
           "view": "https://vaibhavpal7549.github.io/qr-generator/",
