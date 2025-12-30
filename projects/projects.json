@@ -128,5 +128,15 @@
           "view": "https://vaibhavpal7549.github.io/Tic-Tac-Toe-Game/",
           "code": "https://github.com/vaibhavpal7549/Tic-Tac-Toe-Game"
         }
+      },
+      {
+        "name": "Shivika Digital Library",
+        "desc": "Shivika Digital Library is a modern library management platform that enables online seat booking, real-time availability tracking, and digital fee management for students.",
+        "image": "shivika_digital_library",
+        "category": "mern",
+        "links": {
+          "view": "https://shivika-digital-library-frontend.onrender.com/",
+          "code": "https://github.com/vaibhavpal7549/Shivika-Digital-Library"
+        }
       }
   ]
