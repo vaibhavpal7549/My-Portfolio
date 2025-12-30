@@ -58,5 +58,15 @@
           "view": "https://vaibhavpal7549.github.io/qr-generator/",
           "code": "https://github.com/vaibhavpal7549/qr-generator"
         }
+      },
+      {
+        "name": "Rakshabandhan Wishing Website",
+        "desc": "A beautiful Raksha Bandhan-themed web project celebrating the bond between brothers and sisters — built with love, creativity, and code.",
+        "image": "rakshabandhan",
+        "category": "basicweb",
+        "links": {
+          "view": "https://vaibhavpal7549.github.io/Raksha-Bandhan/",
+          "code": "https://github.com/vaibhavpal7549/Raksha-Bandhan"
+        }
       }
   ]
