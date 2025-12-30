@@ -108,5 +108,15 @@
           "view": "https://vaibhavpal7549.github.io/Birthday-Wishing-Website/",
           "code": "https://github.com/vaibhavpal7549/Birthday-Wishing-Website"
         }
+      },
+      {
+        "name": "Todo App",
+        "desc": "A simple Todo App built using HTML, CSS, and JavaScript where users can add, delete, and manage their tasks.",
+        "image": "todo",
+        "category": "basicweb",
+        "links": {
+          "view": "https://vaibhavpal7549.github.io/Todo-App/",
+          "code": "https://github.com/vaibhavpal7549/Todo-App"
+        }
       }
   ]
