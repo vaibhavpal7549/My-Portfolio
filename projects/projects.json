@@ -48,5 +48,15 @@
           "view": "https://spotify-clone-vp.vercel.app/",
           "code": "https://github.com/vaibhavpal7549/Spotify-Clone-Project"
         }
+      },
+      {
+        "name": "QR Code Generator",
+        "desc": "A lightweight and easy-to-use QR Code Generator built using HTML, CSS, and JavaScript",
+        "image": "qr",
+        "category": "basicweb",
+        "links": {
+          "view": "https://vaibhavpal7549.github.io/qr-generator/",
+          "code": "https://github.com/vaibhavpal7549/qr-generator"
+        }
       }
   ]
