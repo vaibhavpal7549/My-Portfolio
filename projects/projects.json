@@ -68,5 +68,15 @@
           "view": "https://vaibhavpal7549.github.io/Raksha-Bandhan/",
           "code": "https://github.com/vaibhavpal7549/Raksha-Bandhan"
         }
+      },
+      {
+        "name": "Simon Says Game",
+        "desc": "A fun and interactive Simon Says Game built with HTML, CSS, and JavaScript. Test your memory skills by following the sequence of colors!",
+        "image": "simon_says",
+        "category": "basicweb",
+        "links": {
+          "view": "https://vaibhavpal7549.github.io/Simon-Says-Game/",
+          "code": "https://github.com/vaibhavpal7549/Simon-Says-Game"
+        }
       }
   ]
