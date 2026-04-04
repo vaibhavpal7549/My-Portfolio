@@ -75,6 +75,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Feel free to connect with me:
 
 - **Personal Email:** [business.vaibhavpal@gmail.com](mailto:business.vaibhavpal@gmail.com)
-- **Location:** Uttar Pradesh, 223102, India
+- **Location:** Uttar Pradesh, India
 
 Thank you for visiting my portfolio!
