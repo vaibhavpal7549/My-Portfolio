@@ -73,8 +73,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 Feel free to connect with me:
-- **Email:** [vaibhav.pal_cs23@gla.ac.in](mailto:vaibhav.pal_cs23@gla.ac.in)
-- **Personal Email:** [vaibhavpal.info@gmail.com](mailto:vaibhavpal.info@gmail.com)
-- **Location:** Jaunpur, Uttar Pradesh, 223102, India
+
+- **Personal Email:** [business.vaibhavpal@gmail.com](mailto:business.vaibhavpal@gmail.com)
+- **Location:** Uttar Pradesh, 223102, India
 
 Thank you for visiting my portfolio!
