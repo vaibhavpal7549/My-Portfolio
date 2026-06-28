@@ -138,5 +138,15 @@
           "view": "https://shivika-digital-library-frontend.onrender.com/",
           "code": "https://github.com/vaibhavpal7549/Shivika-Digital-Library"
         }
+      },
+      {
+        "name": "Vitalis",
+        "desc": "Vitalis is a comprehensive health and wellness platform that provides users with personalized fitness plans, nutrition guidance, and mental health resources.",
+        "image": "vitalis",
+        "category": "mern",
+        "links": {
+          "view": "https://vitalis-green.vercel.app/login",
+          "code": "https://github.com/vaibhavpal7549/Vitalis"
+        }
       }
   ]
