@@ -309,6 +309,9 @@ header .navbar ul li a:hover {
 .social-icons a.github:hover {
   background-color: #0e0e0e;
 }
+.social-icons a.facebook:hover {
+  background-color: #1877f2;
+}
 .social-icons a.twitter:hover {
   background-color: #00aced;
 }
