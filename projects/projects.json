@@ -158,5 +158,15 @@
           "view": "https://profivaultweb.vercel.app/",
           "code": "https://github.com/vaibhavpal7549/ProfiVault-Web"
         }
+      },
+
+      {"name": "TechPick Shop",
+        "desc": "Handpicked gadgets, electronics and accessories worth buying — all in one place. We analyze features, compare marketplace options, and link you directly to Amazon & Flipkart.",
+        "image": "tech_pick",
+        "category": "mern",
+        "links": {
+          "view": "https://techpickshop.vercel.app/",
+          "code": "https://github.com/"
+        }
       }
   ]
