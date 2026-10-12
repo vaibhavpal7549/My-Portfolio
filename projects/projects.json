@@ -160,7 +160,8 @@
         }
       },
 
-      {"name": "TechPick Shop",
+      {
+        "name": "TechPick Shop",
         "desc": "Handpicked gadgets, electronics and accessories worth buying — all in one place. We analyze features, compare marketplace options, and link you directly to Amazon & Flipkart.",
         "image": "tech_pick",
         "category": "mern",
