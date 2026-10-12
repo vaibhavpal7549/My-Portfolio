@@ -138,5 +138,25 @@
           "view": "https://vitalis-green.vercel.app/login",
           "code": "https://github.com/vaibhavpal7549/Vitalis"
         }
+      },
+      {
+        "name": "Food Ordering Website",
+        "desc": "A modern restaurant website that allows users to order food online. It features a user-friendly interface, real-time order tracking, and a seamless checkout process.",
+        "image": "food_order",
+        "category": "mern",
+        "links": {
+          "view": "https://food-order-topaz-beta.vercel.app/",
+          "code": "https://github.com/vaibhavpal7549/food_order"
+        }
+      },
+      {
+        "name": "ProfiVault Extension",
+        "desc": "A Smart Chrome Extension For Managing Professional Profile Links And Simplifying Job Applications.",
+        "image": "profivault",
+        "category": "extension",
+        "links": {
+          "view": "https://profivaultweb.vercel.app/",
+          "code": "https://github.com/vaibhavpal7549/ProfiVault-Web"
+        }
       }
   ]
