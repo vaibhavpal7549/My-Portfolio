@@ -100,16 +100,6 @@
         }
       },
       {
-        "name": "Birthday Wishing Website",
-        "desc": "A simple and interactive Birthday Wishing Website built using HTML, CSS, and JavaScript.",
-        "image": "birthday_wishing",
-        "category": "basicweb",
-        "links": {
-          "view": "https://vaibhavpal7549.github.io/Birthday-Wishing-Website/",
-          "code": "https://github.com/vaibhavpal7549/Birthday-Wishing-Website"
-        }
-      },
-      {
         "name": "Todo App",
         "desc": "A simple Todo App built using HTML, CSS, and JavaScript where users can add, delete, and manage their tasks.",
         "image": "todo",
