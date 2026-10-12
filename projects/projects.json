@@ -162,7 +162,7 @@
 
       {
         "name": "TechPick Shop",
-        "desc": "Handpicked gadgets, electronics and accessories worth buying — all in one place. We analyze features, compare marketplace options, and link you directly to Amazon & Flipkart.",
+        "desc": "Handpicked gadgets, electronics & accessories worth buying. We compare features and prices, linking you directly to Amazon and Flipkart.",
         "image": "tech_pick",
         "category": "mern",
         "links": {
